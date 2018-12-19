@@ -1,0 +1,3 @@
+<launch>
+<param name= "tinkercad_exemple" command="$(find xacro)/xacro '$(find project)/urdf/my_tinkercad.urdf'" />
+</launch>
